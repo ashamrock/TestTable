@@ -1,4 +1,4 @@
-client,invoice,date,employee,task,rate,job,job_ID,hours,total
+﻿client,invoice,date,employee,task,rate,job,jod_ID,hours,total
 1,8,10_18_2023,A Shamrock,Prints,150,Pittsburgh,,1,150
 1,8,10_18_2023,A Shamrock,Prints,150,Union Station,,0.4,60
 1,8,10_17_2023,A Shamrock,Prints,150,Pittsburgh,,1.4,210
@@ -18,45 +18,3 @@ client,invoice,date,employee,task,rate,job,job_ID,hours,total
 1,5,08_15_2023,A Shamrock,Prints,150,Pittsburgh,,2.7,405
 1,5,08_14_2023,A Shamrock,Prints,150,Pittsburgh,,7.9,1185
 1,5,08_08_2023,A Shamrock,Prints,150,Gaylord Hospital,,2.8,420
-1,8,10_18_2023,A Shamrock,Prints,150,Pittsburgh,,1,150
-1,8,10_18_2023,A Shamrock,Prints,150,Union Station,,0.4,60
-1,8,10_17_2023,A Shamrock,Prints,150,Pittsburgh,,1.4,210
-1,8,10_16_2023,A Shamrock,3DPrinting,623g,Pittsburgh,,1.4,173.69
-1,8,10_03_2023,A Shamrock,Prints,150,Pittsburgh,,1.4,300
-1,7,09_13_2023,A Shamrock,3D print,150,Pittsburgh,,3.9,585
-1,7,09_11_2023,A Shamrock,3D print,371g,Pittsburgh,,9,160
-1,7,09_06_2023,A Shamrock,3D print,361g,Pittsburgh,,8.5,159
-1,7,09_06_2023,A Shamrock,Prints,150,Pittsburgh,,3.1,465
-1,7,09_05_2023,A Shamrock,Prints,150,Pittsburgh,,2,300
-1,7,09_04_2023,A Shamrock,3D print,251g,Pittsburgh,,6.5,150
-1,7,09_01_2023,A Shamrock,3D print,131g,Pittsburgh,,3,140
-1,6,07_28_2023,A Shamrock,Prints,150,Pittsburgh,,4.8,720
-1,6,07_05_2023,A Shamrock,Prints,150,Marc Center,,2.4,360
-1,5,08_28_2023,A Shamrock,Prints,150,Union Station,,4.8,720
-1,5,08_22_2023,A Shamrock,Prints,150,Gaylord Hospital,,1,150
-1,5,08_15_2023,A Shamrock,Prints,150,Pittsburgh,,2.7,405
-1,5,08_14_2023,A Shamrock,Prints,150,Pittsburgh,,7.9,1185
-1,5,08_08_2023,A Shamrock,Prints,150,Gaylord Hospital,,2.8,420
-1,8,10_24_2023,Lucky Dev Co,Fieldwork,500,Union Station,,0.0,0
-1,8,10_18_2023,A Shamrock,Prints,150,Pittsburgh,,1,150
-1,8,10_18_2023,A Shamrock,Prints,150,Union Station,,0.4,60
-1,8,10_17_2023,A Shamrock,Prints,150,Pittsburgh,,1.4,210
-1,8,10_16_2023,A Shamrock,3DPrinting,623g,Pittsburgh,,1.4,173.69
-1,8,10_03_2023,A Shamrock,Prints,150,Pittsburgh,,1.4,300
-1,7,09_13_2023,A Shamrock,3D print,150,Pittsburgh,,3.9,585
-1,7,09_11_2023,A Shamrock,3D print,371g,Pittsburgh,,9,160
-1,7,09_06_2023,A Shamrock,3D print,361g,Pittsburgh,,8.5,159
-1,7,09_06_2023,A Shamrock,Prints,150,Pittsburgh,,3.1,465
-1,7,09_05_2023,A Shamrock,Prints,150,Pittsburgh,,2,300
-1,7,09_04_2023,A Shamrock,3D print,251g,Pittsburgh,,6.5,150
-1,7,09_01_2023,A Shamrock,3D print,131g,Pittsburgh,,3,140
-1,6,07_28_2023,A Shamrock,Prints,150,Pittsburgh,,4.8,720
-1,6,07_05_2023,A Shamrock,Prints,150,Marc Center,,2.4,360
-1,5,08_28_2023,A Shamrock,Prints,150,Union Station,,4.8,720
-1,5,08_22_2023,A Shamrock,Prints,150,Gaylord Hospital,,1,150
-1,5,08_15_2023,A Shamrock,Prints,150,Pittsburgh,,2.7,405
-1,5,08_14_2023,A Shamrock,Prints,150,Pittsburgh,,7.9,1185
-1,5,08_08_2023,A Shamrock,Prints,150,Gaylord Hospital,,2.8,420
-1,8,10_24_2023,Lucky Dev Co,Fieldwork,500,Union Station,,0.0,0
-1,8,10_24_2023,Lucky Dev Co,Fieldwork,500,Union Station,,0.0,0
-1,8,10_24_2023,Lucky Dev Co,Fieldwork,500,Union Station,,0.0,0
