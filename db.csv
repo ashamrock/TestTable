@@ -26,3 +26,7 @@ client,invoice,date,employee,task,rate,job,job_ID,hours,total
 0,0,11_09_2023,A Shamrock,Design,150,Gaylord Hospital,,0.0,0
 NO-DATA,,11_09_2023,A Shamrock,Prints,150,NO_DATA,,0.0,0
 NO-DATA,,11_09_2023,A Shamrock,Field Work,150,NO_DATA,,0.0,0
+1,6,11_09_2023,A Shamrock,Field Work,150,Marc Center,8675309-p,0.0,0
+1,6,11_09_2023,A Shamrock,3D Print,1g,Marc Center,8675309-p,1,156
+0,0,11_09_2023,A Shamrock,3D Print,1g,N/A,,1,156
+0,0,11_09_2023,A Shamrock,Field Work,150,N/A,,0.0,0
