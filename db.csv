@@ -33,33 +33,33 @@ client,invoice,date,employee,task,rate,job,job_ID,hours,total
 1,4,06_26_2023,A Shamrock,Prints,150,Frame DC,,0.6,90
 1,4,06_26_2023,A Shamrock,Prints,150,Marc Center,,1,150
 1,6,07_05_2023,A Shamrock,Prints,150,Marc Center,,2.4,360
-1,6,07_28_2023,A Shamrock,Prints,150,Pittsburgh,,4.8,720
+1,10,07_28_2023,A Shamrock,Prints,150,Pittsburgh,,4.8,720
 1,5,08_08_2023,A Shamrock,Prints,150,Gaylord Hospital,,2.8,420
-1,5,08_14_2023,A Shamrock,Prints,150,Pittsburgh,,7.9,1185
-1,5,08_15_2023,A Shamrock,Prints,150,Pittsburgh,,2.7,405
+1,10,08_14_2023,A Shamrock,Prints,150,Pittsburgh,,7.9,1185
+1,10,08_15_2023,A Shamrock,Prints,150,Pittsburgh,,2.7,405
 1,5,08_22_2023,A Shamrock,Prints,150,Gaylord Hospital,,1,150
 1,5,08_28_2023,A Shamrock,Prints,150,Union Station,,4.8,720
-1,7,09_01_2023,A Shamrock,3DPrinting,131g,Pittsburgh,,3,140
-1,7,09_04_2023,A Shamrock,3DPrinting,251g,Pittsburgh,,6.5,150
-1,7,09_05_2023,A Shamrock,Prints,150,Pittsburgh,,2,300
-1,7,09_06_2023,A Shamrock,3DPrinting,361g,Pittsburgh,,8.5,159
-1,7,09_06_2023,A Shamrock,Prints,150,Pittsburgh,,3.1,465
-1,7,09_11_2023,A Shamrock,3DPrinting,371g,Pittsburgh,,9,160
-1,7,09_13_2023,A Shamrock,3DPrinting,150g,Pittsburgh,,3.9,585
-1,7,09_18_2023,A Shamrock,3DPrinting,293g,Pittsburgh,,9.3,153
+1,10,09_01_2023,A Shamrock,3DPrinting,131g,Pittsburgh,,3,140
+1,10,09_04_2023,A Shamrock,3DPrinting,251g,Pittsburgh,,6.5,150
+1,10,09_05_2023,A Shamrock,Prints,150,Pittsburgh,,2,300
+1,10,09_06_2023,A Shamrock,3DPrinting,361g,Pittsburgh,,8.5,159
+1,10,09_06_2023,A Shamrock,Prints,150,Pittsburgh,,3.1,465
+1,10,09_11_2023,A Shamrock,3DPrinting,371g,Pittsburgh,,9,160
+1,10,09_13_2023,A Shamrock,3DPrinting,150g,Pittsburgh,,3.9,585
+1,10,09_18_2023,A Shamrock,3DPrinting,293g,Pittsburgh,,9.3,153
 1,7,09_21_2023,A Shamrock,Prints,150,Baker Hoffstedder,,2.2,330
 1,7,09_21_2023,A Shamrock,Prints,150,Prudential,,5.4,810
-1,7,09_26_2023,A Shamrock,Prints,150,Pittsburgh,,0.9,135
-1,7,09_27_2023,A Shamrock,3DPrinting,561g,Pittsburgh,,14.3,175
+1,10,09_26_2023,A Shamrock,Prints,150,Pittsburgh,,0.9,135
+1,10,09_27_2023,A Shamrock,3DPrinting,561g,Pittsburgh,,14.3,175
 1,7,09_28_2023,A Shamrock,Prints,150,Pivot Panel,,2.7,405
 1,7,09_29_2023,A Shamrock,Prints,150,Pivot Panel,,0.7,105
-1,8,10_03_2023,A Shamrock,Prints,150,Pittsburgh,,1.4,300
-1,8,10_16_2023,A Shamrock,3DPrinting,623g,Pittsburgh,,1.4,174
-1,8,10_17_2023,A Shamrock,Prints,150,Pittsburgh,,1.4,210
-1,8,10_18_2023,A Shamrock,Prints,150,Pittsburgh,,1,150
+1,10,10_03_2023,A Shamrock,Prints,150,Pittsburgh,,1.4,300
+1,10,10_16_2023,A Shamrock,3DPrinting,623g,Pittsburgh,,1.4,174
+1,10,10_17_2023,A Shamrock,Prints,150,Pittsburgh,,1.4,210
+1,10,10_18_2023,A Shamrock,Prints,150,Pittsburgh,,1,150
 1,8,10_18_2023,A Shamrock,Prints,150,Union Station,,0.4,60
-1,8,10_31_2023,A Shamrock,3DPrinting,653g,Pittsburgh,,7.6,175
-1,8,10_31_2023,A Shamrock,Prints,150,Pittsburgh,,1.9,285
+1,10,10_31_2023,A Shamrock,3DPrinting,653g,Pittsburgh,,7.6,175
+1,10,10_31_2023,A Shamrock,Prints,150,Pittsburgh,,1.9,285
 1,9,11_16_2023,A Shamrock,Prints,150,CCI Elevator,,1.6,240
 1,9,11_17_2023,A Shamrock,Prints,150,CCI Elevator,,2.3,345
 1,9,11_20_2023,A Shamrock,Prints,150,CCI Elevator,,4.9,735
