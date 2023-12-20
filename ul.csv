@@ -1,5 +1,5 @@
 us_num,hours,total,firstn,lastn,street,city,state,zip,phone,email,alt_email,sign
-0,0,0,ADMIN,SPECIAL,1234 Road,Lucky,Oh,44444,216-282-6225,ADMIN,ADMIN,1
+0,0,0,-,-,-,-,-,-,-,ADMIN,-,1
 1,0,0,Andrew,S,1234 Client Road,Lucky,Oh,44444,216-282-6225,Andrew@luckydevco.com,Billing@LuckyDevCo.com,1
 2,3,12865,Blow,J,321 endof Road,noob,Oh,3333,8675-309,Sales@luckydevco.com,Hello@LuckyDevCo.com,Poopy
 2,3,12865,Blow,J,321 endof Road,noob,Oh,3333,8675-309,1,Hello@LuckyDevCo.com,1
