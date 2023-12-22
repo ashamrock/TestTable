@@ -1,0 +1,5 @@
+us_num,hours,total,firstn,lastn,street,city,state,zip,phone,email,alt_email,admin,sign
+0,0,0,-,-,-,-,-,-,-,1,-,1,1
+1,0,0,Andrew,S,1234 Client Road,Lucky,Oh,44444,216-282-6225,Andrew@luckydevco.com,Billing@LuckyDevCo.com,2,1
+2,3,12865,Blow,J,321 endof Road,noob,Oh,3333,8675-309,Sales@luckydevco.com,Hello@LuckyDevCo.com,0,1
+3,3,12865,Blow,J,321 endof Road,noob,Oh,3333,8675-309,0,Hello@LuckyDevCo.com,0,1
