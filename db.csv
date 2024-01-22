@@ -84,3 +84,4 @@ client,invoice,date,employee,task,rate,job,job_ID,hours,total,legacy
 1,12,12_04_2023,A Shamrock,Prints,150,Brookside,,3.2,480,
 1,12,12_13_2023,A Shamrock,Prints,150,BWI,,0.4,60,
 1,12,12_22_2023,A Shamrock,Prints,150,CCI Elevator,,4.2,630,
+1,12,1_22_2023,A Shamrock,Prints,150,CCI Elevator,,1.1,165,
