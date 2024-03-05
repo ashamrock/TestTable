@@ -100,3 +100,4 @@ client,invoice,date,employee,task,rate,job,job_ID,hours,total,status
 1,10,02_29_2024,A Shamrock,3DPrinting,695g,Pittsburgh,,12.2,204,hold
 1,10,03_04_2024,A Shamrock,Post_Processing,22.5,Pittsburgh,,0.7,15,hold
 1,10,03_04_2024,A Shamrock,Assembly,22.5,Pittsburgh,,0.5,11,hold
+1,14,03_05_2024,A Shamrock,Prints,135,Hirshorn,,0.9,121.5,
