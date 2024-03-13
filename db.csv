@@ -104,3 +104,4 @@ client,invoice,date,employee,task,rate,job,job_ID,hours,total,status
 1,14,03_08_2024,A Shamrock,Prints,135,Fort Mead,,1.4,189,
 1,10,03_09_2024,A Shamrock,Assembly,22.5,Pittsburgh,,1.2,27,hold
 1,10,03/11/2024,A Shamrock,Assembly,22.5,Pittsburgh,,0.7,15.75,hold
+1,10,03/13/2024,A Shamrock,Prints,135,Pittsburgh,,1.0,135,hold
