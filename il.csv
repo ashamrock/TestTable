@@ -1,4 +1,4 @@
-inv_num,cl_num,issued,due,amount,status,revise,note,comment
+client,invoice,date,employee,task,rate,job,job_ID,hours,total,status
 1,1,02/09/2023,04/11/2023,1800,paid,-,-,
 2,1,04/04/2023,06/04/2023,1215,paid,-,-,
 3,1,05/01/2023,07/01/2023,1875,paid,-,-,
@@ -13,3 +13,4 @@ inv_num,cl_num,issued,due,amount,status,revise,note,comment
 12,1,01/03/2024,03/03/2024,1170,late,-,-,
 13,1,03/04/2024,05/04/2024,840,issued,-,-,
 14,1,04/01/2024,06/01/2024,472,issued,-,-,
+15,1,04/03/2024,06/03/2024,210,issued,-,-,
