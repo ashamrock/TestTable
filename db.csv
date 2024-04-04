@@ -113,3 +113,4 @@ client,invoice,date,employee,task,rate,job,job_ID,hours,total,status
 1,14,03/29/2024,A Shamrock,Prints,135,Fort Mead,,1.2,162,
 1,15,04/01/2024,A Shamrock,Prints,135,Suntan Supply,,1.4,210,
 1,15,04/04/2024,A Shamrock,Prints,150,Rolex,,1,150,
+1,10,04/04/2024,A Shamrock,Prints,150,Pittsburgh,,4.1,615,hold
