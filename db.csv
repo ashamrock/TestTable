@@ -1,4 +1,6 @@
 client,invoice,date,employee,task,rate,job,job_ID,hours,total,status
+client,invoice,date,employee,task,rate,job,job_ID,hours,total,status
+client,invoice,date,employee,task,rate,job,job_ID,hours,total,status
 1,1,01/17/2023,A Shamrock,Prints,150,O'Hare,21-40-119,2.8,420,done
 1,1,01/17/2023,A Shamrock,Prints,150,Kings Farm,,1.2,180,done
 1,1,01/17/2023,A Shamrock,Prints,150,Stand Together,,1.3,195,done
@@ -126,3 +128,263 @@ client,invoice,date,employee,task,rate,job,job_ID,hours,total,status
 1,10,05/22/2024,A Shamrock,Prints,150,Pittsburgh,,3.6,540,hold
 1,10,05/23/2024,A Shamrock,Prints,150,Pittsburgh,,1.8,270,hold
 1,16,05/30/2024,A Shamrock,3D Print,,Corner Crimp,,,NaN,
+1,16,05/30/2024,A Shamrock,3D Print,,Corner Crimp,,5.1,NaN,
+1,1,01/17/2023,A Shamrock,Prints,150,O'Hare,21-40-119,2.8,420,done
+1,1,01/17/2023,A Shamrock,Prints,150,Kings Farm,,1.2,180,done
+1,1,01/17/2023,A Shamrock,Prints,150,Stand Together,,1.3,195,done
+1,1,01/18/2023,A Shamrock,Prints,150,Kings Farm,,0.8,120,done
+1,1,01/18/2023,A Shamrock,Prints,150,Kaiser,22-40-027,1,150,done
+1,1,01/18/2023,A Shamrock,Prints,150,Stand Together,,0.7,105,done
+1,1,01/19/2023,A Shamrock,Prints,150,O'Hare,21-40-119,1.3,195,done
+1,1,01/19/2023,A Shamrock,Prints,150,O'Hare,21-40-119,1.1,165,done
+1,1,01/20/2023,A Shamrock,Prints,150,O'Hare,21-40-119,0.7,105,done
+1,1,01/23/2023,A Shamrock,Prints,150,Kaiser,22-40-027,0.5,75,done
+1,1,01/23/2023,A Shamrock,Prints,150,O'Hare,21-40-119,0.2,30,done
+1,1,02/02/2023,A Shamrock,Prints,150,O'Hare,21-40-119,0.4,60,done
+1,2,02/27/2023,A Shamrock,Prints,150,Perkins & Will,,1.4,210,done
+1,2,03/19/2023,A Shamrock,Prints,150,Marc Center,,1.6,240,done
+1,2,03/28/2023,A Shamrock,Prints,150,Pitt,,2.8,420,done
+1,2,03/29/2023,A Shamrock,Prints,150,Pitt,,2.3,345,done
+1,3,04/18/2023,A Shamrock,Prints,150,M Cohen And Sons,,3.7,555,done
+1,3,04/20/2023,A Shamrock,Prints,150,M Cohen And Sons,,1.9,285,done
+1,3,04/21/2023,A Shamrock,Prints,150,M Cohen And Sons,,1.6,240,done
+1,3,04/25/2023,A Shamrock,Prints,150,M Cohen And Sons,,1.5,225,done
+1,3,04/26/2023,A Shamrock,Prints,150,Obama Presidential Library,,0.6,90,done
+1,3,04/27/2023,A Shamrock,Prints,150,Obama Presidential Library,,0.6,90,done
+1,3,04/28/2023,A Shamrock,Prints,150,Obama Presidential Library,,1.7,255,done
+1,3,05/01/2023,A Shamrock,Prints,150,Obama Presidential Library,,0.9,135,done
+1,4,05/16/2023,A Shamrock,Prints,150,Pitt,,1.4,210,done
+1,4,05/21/2023,A Shamrock,Prints,150,Marc Center,,0.8,120,done
+1,4,05/24/2023,A Shamrock,Prints,150,Marc Center,,0.9,135,done
+1,4,06/07/2023,A Shamrock,Prints,150,MQ-Unlimited,,1.6,240,done
+1,4,06/13/2023,A Shamrock,Prints,150,Marc Center,,1.7,255,done
+1,4,06/16/2023,A Shamrock,Prints,150,Marc Center,,0.8,120,done
+1,4,06/21/2023,A Shamrock,Prints,150,Frame DC,,1.9,285,done
+1,4,06/26/2023,A Shamrock,Prints,150,Frame DC,,0.6,90,done
+1,4,06/26/2023,A Shamrock,Prints,150,Marc Center,,1,150,done
+1,9,11/16/2023,A Shamrock,Prints,150,CCI Elevator,,1.6,240,
+1,9,11/17/2023,A Shamrock,Prints,150,CCI Elevator,,2.3,345,
+1,9,11/20/2023,A Shamrock,Prints,150,CCI Elevator,,4.9,735,
+1,9,11/21/2023,A Shamrock,Prints,150,CCI Elevator,,4.4,660,
+1,9,11/21/2023,A Shamrock,Prints,150,Brookside,,0.4,60,
+1,9,11/22/2023,A Shamrock,Prints,150,Brookside,,2.1,315,
+1,9,11/27/2023,A Shamrock,Prints,150,Brookside,,2.1,315,
+1,9,11/30/2023,A Shamrock,Prints,150,CCI Elevator,,1.2,180,
+1,10,07/28/2023,A Shamrock,Prints,150,Pittsburgh,,4.8,720,hold
+1,10,08/14/2023,A Shamrock,Prints,150,Pittsburgh,,7.9,1185,hold
+1,10,08/15/2023,A Shamrock,Prints,150,Pittsburgh,,2.7,405,hold
+1,10,09/01/2023,A Shamrock,3DPrinting,131g,Pittsburgh,,3,140,hold
+1,10,09/04/2023,A Shamrock,3DPrinting,251g,Pittsburgh,,6.5,150,hold
+1,10,09/05/2023,A Shamrock,Prints,150,Pittsburgh,,2,300,hold
+1,10,09/06/2023,A Shamrock,3DPrinting,361g,Pittsburgh,,8.5,159,hold
+1,10,09/06/2023,A Shamrock,Prints,150,Pittsburgh,,3.1,465,hold
+1,10,09/11/2023,A Shamrock,3DPrinting,371g,Pittsburgh,,9,160,hold
+1,10,09/13/2023,A Shamrock,3DPrinting,150g,Pittsburgh,,3.9,585,hold
+1,10,09/18/2023,A Shamrock,3DPrinting,293g,Pittsburgh,,9.3,153,hold
+1,10,09/26/2023,A Shamrock,Prints,150,Pittsburgh,,0.9,135,hold
+1,10,09/27/2023,A Shamrock,3DPrinting,561g,Pittsburgh,,14.3,175,hold
+1,10,10/03/2023,A Shamrock,Prints,150,Pittsburgh,,1.4,300,hold
+1,10,10/16/2023,A Shamrock,3DPrinting,623g,Pittsburgh,,1.4,174,hold
+1,10,10/17/2023,A Shamrock,Prints,150,Pittsburgh,,1.4,210,hold
+1,10,10/18/2023,A Shamrock,Prints,150,Pittsburgh,,1,150,hold
+1,10,10/31/2023,A Shamrock,3DPrinting,653g,Pittsburgh,,7.6,175,hold
+0,11,10/31/2023,A Shamrock,Prints,150,vander,,1.9,285,
+0,11,07/05/2023,A Shamrock,Prints,150,bullstrap,,2.4,360,
+0,5,08/08/2023,A Shamrock,Prints,150,grayhound,,2.8,420,
+0,11,08/22/2023,A Shamrock,Prints,150,helloworld,,1,150,done
+0,15,08/28/2023,A Shamrock,Prints,150,un street,,4.8,720,
+0,15,09/21/2023,A Shamrock,Prints,150,helloworld,,2.2,330,
+0,11,09/21/2023,A Shamrock,Prints,150,grayhound,,5.4,810,
+0,20,09/28/2023,A Shamrock,Prints,150,bullpup,,2.7,405,
+0,20,09/29/2023,A Shamrock,Prints,150,pullersize,,0.7,105,
+0,20,10/18/2023,A Shamrock,Prints,150,poopmcgee,,0.4,60,
+0,12,12/04/2023,A Shamrock,Prints,150,mcgee,,3.2,480,
+0,12,12/13/2023,A Shamrock,Prints,150,vander,,0.4,60,
+0,12,12/22/2023,A Shamrock,Prints,150,852 yearly,,4.2,630,
+1,10,10/31/2023,A Shamrock,Prints,150,Pittsburgh,,1.9,285,
+1,11,07/05/2023,A Shamrock,Prints,150,Marc Center,,2.4,360,done
+1,11,08/08/2023,A Shamrock,Prints,150,Gaylord Hospital,,2.8,420,
+1,11,08/22/2023,A Shamrock,Prints,150,Gaylord Hospital,,1,150,
+1,11,08/28/2023,A Shamrock,Prints,150,Union Station,,4.8,720,
+1,11,09/21/2023,A Shamrock,Prints,150,Baker Hoffstedder,,2.2,330,
+1,11,09/21/2023,A Shamrock,Prints,150,Prudential,,5.4,810,
+1,11,09/28/2023,A Shamrock,Prints,150,Pivot Panel,,2.7,405,
+1,11,09/29/2023,A Shamrock,Prints,150,Pivot Panel,,0.7,105,
+1,11,10/18/2023,A Shamrock,Prints,150,Union Station,,0.4,60,
+1,12,12/04/2023,A Shamrock,Prints,150,Brookside,,3.2,480,
+1,12,12/13/2023,A Shamrock,Prints,150,BWI,,0.4,60,
+1,12,12/22/2023,A Shamrock,Prints,150,CCI Elevator,,4.2,630,
+1,13,01/22/2024,A Shamrock,Prints,150,CCI Elevator,,1.1,165,
+1,13,02/07/2024,A Shamrock,Prints,150,Hirshorn,,0.3,45,
+1,10,02/09/2024,A Shamrock,Prints,150,Pittsburgh,,3.8,570,hold
+1,10,02/12/2024,A Shamrock,Prints,150,Pittsburgh,,3.6,540,hold
+1,10,02/13/2024,A Shamrock,Prints,150,Pittsburgh,,8.5,1275,hold
+1,10,02/14/2024,A Shamrock,Prints,150,Pittsburgh,,2.3,345,hold
+1,13,02/15/2024,A Shamrock,Prints,150,CCI Elevator,,4.2,630,
+1,10,02/21/2024,A Shamrock,Prints,150,Pittsburgh,,3.1,465,hold
+1,10,02/22/2024,A Shamrock,Prints,150,Pittsburgh,,4.6,690,hold
+1,10,02/23/2024,A Shamrock,Prints,150,Pittsburgh,,0.9,135,hold
+1,10,02/26/2024,A Shamrock,Prints,150,Pittsburgh,,1.8,270,hold
+1,10,02/27/2024,A Shamrock,3DPrinting,351g,Pittsburgh,,8.4,180,hold
+1,10,02/28/2024,A Shamrock,3DPrinting,1404g,Pittsburgh,,20.2,254,hold
+1,10,02/29/2024,A Shamrock,3DPrinting,695g,Pittsburgh,,12.2,204,hold
+1,10,03/04/2024,A Shamrock,Post_Processing,22.5,Pittsburgh,,0.7,15,hold
+1,10,03/04/2024,A Shamrock,Assembly,22.5,Pittsburgh,,0.5,11,hold
+1,14,03/05/2024,A Shamrock,Prints,135,Charm City,,0.9,121,
+1,14,03/08/2024,A Shamrock,Prints,135,Fort Mead,,1.4,189,
+1,10,03/09/2024,A Shamrock,Assembly,22.5,Pittsburgh,,1.2,27,hold
+1,10,03/11/2024,A Shamrock,Assembly,22.5,Pittsburgh,,0.7,15,hold
+1,10,03/13/2024,A Shamrock,Prints,135,Pittsburgh,,1.0,135,hold
+1,10,03/14/2024,A Shamrock,Prints,135,Pittsburgh,,6.2,837,hold
+1,10,03/15/2024,A Shamrock,Prints,135,Pittsburgh,,8.5,1147,hold
+1,10,03/18/2024,A Shamrock,Prints,135,Pittsburgh,,2.2,297,hold
+1,10,03/19/2024,A Shamrock,Prints,135,Pittsburgh,,2.5,338,hold
+1,10,03/20/2024,A Shamrock,Prints,135,Pittsburgh,,0.8,108,hold
+1,14,03/29/2024,A Shamrock,Prints,135,Fort Mead,,1.2,162,
+1,15,04/01/2024,A Shamrock,Prints,150,Suntan Supply,,1.4,210,
+1,15,04/04/2024,A Shamrock,Prints,150,Rolex,,1,150,
+1,10,04/04/2024,A Shamrock,Prints,150,Pittsburgh,,4.1,615,hold
+1,15,04/05/2024,A Shamrock,Prints,150,CCI Elevator,,1.9,285,
+1,15,04/08/2024,A Shamrock,Prints,150,Rolex,,3.8,570,
+1,15,04/17/2024,A Shamrock,Prints,150,Rolex,,2.2,330,
+1,15,04/17/2024,A Shamrock,Purchase-25472581,37.46,Rolex,,1,37.46,
+1,15,04/18/2024,A Shamrock,Prints,150,Rolex,,4.6,690,
+1,15,04/19/2024,A Shamrock,Prints,150,Rolex,,4.0,600,
+1,15,04/23/2024,A Shamrock,Prints,150,Rolex,,1.5,300,
+1,16,05/21/2024,A Shamrock,Prints,150,Jaguar-Land Rover,,1,150,
+1,10,05/21/2024,A Shamrock,Prints,150,Pittsburgh,,4.3,645,hold
+1,10,05/22/2024,A Shamrock,Prints,150,Pittsburgh,,3.6,540,hold
+1,10,05/23/2024,A Shamrock,Prints,150,Pittsburgh,,1.8,270,hold
+1,16,05/30/2024,A Shamrock,3D Print,,Corner Crimp,,,NaN,
+1,16,05/30/2024,A Shamrock,3D Print,,Corner Crimp,,5.1,NaN,
+1,16,05/30/2024,A Shamrock,3D Print,,Corner Crimp,,5.1,NaN,
+1,1,01/17/2023,A Shamrock,Prints,150,O'Hare,21-40-119,2.8,420,done
+1,1,01/17/2023,A Shamrock,Prints,150,Kings Farm,,1.2,180,done
+1,1,01/17/2023,A Shamrock,Prints,150,Stand Together,,1.3,195,done
+1,1,01/18/2023,A Shamrock,Prints,150,Kings Farm,,0.8,120,done
+1,1,01/18/2023,A Shamrock,Prints,150,Kaiser,22-40-027,1,150,done
+1,1,01/18/2023,A Shamrock,Prints,150,Stand Together,,0.7,105,done
+1,1,01/19/2023,A Shamrock,Prints,150,O'Hare,21-40-119,1.3,195,done
+1,1,01/19/2023,A Shamrock,Prints,150,O'Hare,21-40-119,1.1,165,done
+1,1,01/20/2023,A Shamrock,Prints,150,O'Hare,21-40-119,0.7,105,done
+1,1,01/23/2023,A Shamrock,Prints,150,Kaiser,22-40-027,0.5,75,done
+1,1,01/23/2023,A Shamrock,Prints,150,O'Hare,21-40-119,0.2,30,done
+1,1,02/02/2023,A Shamrock,Prints,150,O'Hare,21-40-119,0.4,60,done
+1,2,02/27/2023,A Shamrock,Prints,150,Perkins & Will,,1.4,210,done
+1,2,03/19/2023,A Shamrock,Prints,150,Marc Center,,1.6,240,done
+1,2,03/28/2023,A Shamrock,Prints,150,Pitt,,2.8,420,done
+1,2,03/29/2023,A Shamrock,Prints,150,Pitt,,2.3,345,done
+1,3,04/18/2023,A Shamrock,Prints,150,M Cohen And Sons,,3.7,555,done
+1,3,04/20/2023,A Shamrock,Prints,150,M Cohen And Sons,,1.9,285,done
+1,3,04/21/2023,A Shamrock,Prints,150,M Cohen And Sons,,1.6,240,done
+1,3,04/25/2023,A Shamrock,Prints,150,M Cohen And Sons,,1.5,225,done
+1,3,04/26/2023,A Shamrock,Prints,150,Obama Presidential Library,,0.6,90,done
+1,3,04/27/2023,A Shamrock,Prints,150,Obama Presidential Library,,0.6,90,done
+1,3,04/28/2023,A Shamrock,Prints,150,Obama Presidential Library,,1.7,255,done
+1,3,05/01/2023,A Shamrock,Prints,150,Obama Presidential Library,,0.9,135,done
+1,4,05/16/2023,A Shamrock,Prints,150,Pitt,,1.4,210,done
+1,4,05/21/2023,A Shamrock,Prints,150,Marc Center,,0.8,120,done
+1,4,05/24/2023,A Shamrock,Prints,150,Marc Center,,0.9,135,done
+1,4,06/07/2023,A Shamrock,Prints,150,MQ-Unlimited,,1.6,240,done
+1,4,06/13/2023,A Shamrock,Prints,150,Marc Center,,1.7,255,done
+1,4,06/16/2023,A Shamrock,Prints,150,Marc Center,,0.8,120,done
+1,4,06/21/2023,A Shamrock,Prints,150,Frame DC,,1.9,285,done
+1,4,06/26/2023,A Shamrock,Prints,150,Frame DC,,0.6,90,done
+1,4,06/26/2023,A Shamrock,Prints,150,Marc Center,,1,150,done
+1,9,11/16/2023,A Shamrock,Prints,150,CCI Elevator,,1.6,240,
+1,9,11/17/2023,A Shamrock,Prints,150,CCI Elevator,,2.3,345,
+1,9,11/20/2023,A Shamrock,Prints,150,CCI Elevator,,4.9,735,
+1,9,11/21/2023,A Shamrock,Prints,150,CCI Elevator,,4.4,660,
+1,9,11/21/2023,A Shamrock,Prints,150,Brookside,,0.4,60,
+1,9,11/22/2023,A Shamrock,Prints,150,Brookside,,2.1,315,
+1,9,11/27/2023,A Shamrock,Prints,150,Brookside,,2.1,315,
+1,9,11/30/2023,A Shamrock,Prints,150,CCI Elevator,,1.2,180,
+1,10,07/28/2023,A Shamrock,Prints,150,Pittsburgh,,4.8,720,hold
+1,10,08/14/2023,A Shamrock,Prints,150,Pittsburgh,,7.9,1185,hold
+1,10,08/15/2023,A Shamrock,Prints,150,Pittsburgh,,2.7,405,hold
+1,10,09/01/2023,A Shamrock,3DPrinting,131g,Pittsburgh,,3,140,hold
+1,10,09/04/2023,A Shamrock,3DPrinting,251g,Pittsburgh,,6.5,150,hold
+1,10,09/05/2023,A Shamrock,Prints,150,Pittsburgh,,2,300,hold
+1,10,09/06/2023,A Shamrock,3DPrinting,361g,Pittsburgh,,8.5,159,hold
+1,10,09/06/2023,A Shamrock,Prints,150,Pittsburgh,,3.1,465,hold
+1,10,09/11/2023,A Shamrock,3DPrinting,371g,Pittsburgh,,9,160,hold
+1,10,09/13/2023,A Shamrock,3DPrinting,150g,Pittsburgh,,3.9,585,hold
+1,10,09/18/2023,A Shamrock,3DPrinting,293g,Pittsburgh,,9.3,153,hold
+1,10,09/26/2023,A Shamrock,Prints,150,Pittsburgh,,0.9,135,hold
+1,10,09/27/2023,A Shamrock,3DPrinting,561g,Pittsburgh,,14.3,175,hold
+1,10,10/03/2023,A Shamrock,Prints,150,Pittsburgh,,1.4,300,hold
+1,10,10/16/2023,A Shamrock,3DPrinting,623g,Pittsburgh,,1.4,174,hold
+1,10,10/17/2023,A Shamrock,Prints,150,Pittsburgh,,1.4,210,hold
+1,10,10/18/2023,A Shamrock,Prints,150,Pittsburgh,,1,150,hold
+1,10,10/31/2023,A Shamrock,3DPrinting,653g,Pittsburgh,,7.6,175,hold
+0,11,10/31/2023,A Shamrock,Prints,150,vander,,1.9,285,
+0,11,07/05/2023,A Shamrock,Prints,150,bullstrap,,2.4,360,
+0,5,08/08/2023,A Shamrock,Prints,150,grayhound,,2.8,420,
+0,11,08/22/2023,A Shamrock,Prints,150,helloworld,,1,150,done
+0,15,08/28/2023,A Shamrock,Prints,150,un street,,4.8,720,
+0,15,09/21/2023,A Shamrock,Prints,150,helloworld,,2.2,330,
+0,11,09/21/2023,A Shamrock,Prints,150,grayhound,,5.4,810,
+0,20,09/28/2023,A Shamrock,Prints,150,bullpup,,2.7,405,
+0,20,09/29/2023,A Shamrock,Prints,150,pullersize,,0.7,105,
+0,20,10/18/2023,A Shamrock,Prints,150,poopmcgee,,0.4,60,
+0,12,12/04/2023,A Shamrock,Prints,150,mcgee,,3.2,480,
+0,12,12/13/2023,A Shamrock,Prints,150,vander,,0.4,60,
+0,12,12/22/2023,A Shamrock,Prints,150,852 yearly,,4.2,630,
+1,10,10/31/2023,A Shamrock,Prints,150,Pittsburgh,,1.9,285,
+1,11,07/05/2023,A Shamrock,Prints,150,Marc Center,,2.4,360,done
+1,11,08/08/2023,A Shamrock,Prints,150,Gaylord Hospital,,2.8,420,
+1,11,08/22/2023,A Shamrock,Prints,150,Gaylord Hospital,,1,150,
+1,11,08/28/2023,A Shamrock,Prints,150,Union Station,,4.8,720,
+1,11,09/21/2023,A Shamrock,Prints,150,Baker Hoffstedder,,2.2,330,
+1,11,09/21/2023,A Shamrock,Prints,150,Prudential,,5.4,810,
+1,11,09/28/2023,A Shamrock,Prints,150,Pivot Panel,,2.7,405,
+1,11,09/29/2023,A Shamrock,Prints,150,Pivot Panel,,0.7,105,
+1,11,10/18/2023,A Shamrock,Prints,150,Union Station,,0.4,60,
+1,12,12/04/2023,A Shamrock,Prints,150,Brookside,,3.2,480,
+1,12,12/13/2023,A Shamrock,Prints,150,BWI,,0.4,60,
+1,12,12/22/2023,A Shamrock,Prints,150,CCI Elevator,,4.2,630,
+1,13,01/22/2024,A Shamrock,Prints,150,CCI Elevator,,1.1,165,
+1,13,02/07/2024,A Shamrock,Prints,150,Hirshorn,,0.3,45,
+1,10,02/09/2024,A Shamrock,Prints,150,Pittsburgh,,3.8,570,hold
+1,10,02/12/2024,A Shamrock,Prints,150,Pittsburgh,,3.6,540,hold
+1,10,02/13/2024,A Shamrock,Prints,150,Pittsburgh,,8.5,1275,hold
+1,10,02/14/2024,A Shamrock,Prints,150,Pittsburgh,,2.3,345,hold
+1,13,02/15/2024,A Shamrock,Prints,150,CCI Elevator,,4.2,630,
+1,10,02/21/2024,A Shamrock,Prints,150,Pittsburgh,,3.1,465,hold
+1,10,02/22/2024,A Shamrock,Prints,150,Pittsburgh,,4.6,690,hold
+1,10,02/23/2024,A Shamrock,Prints,150,Pittsburgh,,0.9,135,hold
+1,10,02/26/2024,A Shamrock,Prints,150,Pittsburgh,,1.8,270,hold
+1,10,02/27/2024,A Shamrock,3DPrinting,351g,Pittsburgh,,8.4,180,hold
+1,10,02/28/2024,A Shamrock,3DPrinting,1404g,Pittsburgh,,20.2,254,hold
+1,10,02/29/2024,A Shamrock,3DPrinting,695g,Pittsburgh,,12.2,204,hold
+1,10,03/04/2024,A Shamrock,Post_Processing,22.5,Pittsburgh,,0.7,15,hold
+1,10,03/04/2024,A Shamrock,Assembly,22.5,Pittsburgh,,0.5,11,hold
+1,14,03/05/2024,A Shamrock,Prints,135,Charm City,,0.9,121,
+1,14,03/08/2024,A Shamrock,Prints,135,Fort Mead,,1.4,189,
+1,10,03/09/2024,A Shamrock,Assembly,22.5,Pittsburgh,,1.2,27,hold
+1,10,03/11/2024,A Shamrock,Assembly,22.5,Pittsburgh,,0.7,15,hold
+1,10,03/13/2024,A Shamrock,Prints,135,Pittsburgh,,1.0,135,hold
+1,10,03/14/2024,A Shamrock,Prints,135,Pittsburgh,,6.2,837,hold
+1,10,03/15/2024,A Shamrock,Prints,135,Pittsburgh,,8.5,1147,hold
+1,10,03/18/2024,A Shamrock,Prints,135,Pittsburgh,,2.2,297,hold
+1,10,03/19/2024,A Shamrock,Prints,135,Pittsburgh,,2.5,338,hold
+1,10,03/20/2024,A Shamrock,Prints,135,Pittsburgh,,0.8,108,hold
+1,14,03/29/2024,A Shamrock,Prints,135,Fort Mead,,1.2,162,
+1,15,04/01/2024,A Shamrock,Prints,150,Suntan Supply,,1.4,210,
+1,15,04/04/2024,A Shamrock,Prints,150,Rolex,,1,150,
+1,10,04/04/2024,A Shamrock,Prints,150,Pittsburgh,,4.1,615,hold
+1,15,04/05/2024,A Shamrock,Prints,150,CCI Elevator,,1.9,285,
+1,15,04/08/2024,A Shamrock,Prints,150,Rolex,,3.8,570,
+1,15,04/17/2024,A Shamrock,Prints,150,Rolex,,2.2,330,
+1,15,04/17/2024,A Shamrock,Purchase-25472581,37.46,Rolex,,1,37.46,
+1,15,04/18/2024,A Shamrock,Prints,150,Rolex,,4.6,690,
+1,15,04/19/2024,A Shamrock,Prints,150,Rolex,,4.0,600,
+1,15,04/23/2024,A Shamrock,Prints,150,Rolex,,1.5,300,
+1,16,05/21/2024,A Shamrock,Prints,150,Jaguar-Land Rover,,1,150,
+1,10,05/21/2024,A Shamrock,Prints,150,Pittsburgh,,4.3,645,hold
+1,10,05/22/2024,A Shamrock,Prints,150,Pittsburgh,,3.6,540,hold
+1,10,05/23/2024,A Shamrock,Prints,150,Pittsburgh,,1.8,270,hold
+1,16,05/30/2024,A Shamrock,3D Print,,Corner Crimp,,,NaN,
+1,16,05/30/2024,A Shamrock,3D Print,,Corner Crimp,,5.1,NaN,
+1,16,05/30/2024,A Shamrock,3D Print,,Corner Crimp,,5.1,NaN,
+1,16,05/30/2024,A Shamrock,3D Print,,Corner Crimp,,5.1,NaN,
