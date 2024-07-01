@@ -1,4 +1,4 @@
-inv_num,cl_num,issued,due,amount,status,revise,note,comment
+inv_num,cl_num,issued,due,Amount<br>$32,243,status,revise,note,comment
 1,1,02/09/2023,04/11/2023,1800,paid,-,-,
 2,1,04/04/2023,06/04/2023,1215,paid,-,-,
 3,1,05/01/2023,07/01/2023,1875,paid,-,-,
@@ -14,3 +14,4 @@ inv_num,cl_num,issued,due,amount,status,revise,note,comment
 13,1,03/04/2024,05/04/2024,840,paid,-,-,
 14,1,04/01/2024,06/01/2024,472,paid,-,-,
 15,1,05/01/2024,07/01/2024,3172,issued,-,-,
+16,1,07/01/2024,09/01/2024,1890,issued,-,-,
