@@ -1,4 +1,4 @@
-inv_num,cl_num,issued,due,Amount,status,revise,note,comment
+inv_num,cl_num,issued,due,amount,status,revise,note,comment
 1,1,02/09/2023,04/11/2023,1800,paid,-,-,
 2,1,04/04/2023,06/04/2023,1215,paid,-,-,
 3,1,05/01/2023,07/01/2023,1875,paid,-,-,
