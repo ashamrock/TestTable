@@ -8,7 +8,7 @@ inv_num,cl_num,issued,due,amount,status,revise,note,comment
 7,1,10/01/2023,12/01/2023,0,void,-,-,
 8,1,11/01/2023,01/01/2024,0,void,-,-,
 9,1,12/01/2023,01/31/2024,2850,paid,-,-,
-10,1,12/01/2023,,18253,issued,-,note,Consolidated from invoices 0105 thru 0108
+10,1,12/01/2023,12/09/2024,18253,issued,-,note,Consolidated from invoices 0105 thru 0108
 11,1,12/01/2023,02/01/2024,3360,paid,-,note,Consolidated from invoices 0105 thru 0108
 12,1,01/03/2024,03/03/2024,1170,paid,-,-,
 13,1,03/04/2024,05/04/2024,840,paid,-,-,
