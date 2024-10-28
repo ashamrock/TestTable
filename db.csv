@@ -1,4 +1,5 @@
 client,invoice,date,employee,task,rate,job,job_ID,hours,total,status
+1,19,10/25/2024,A Shamrock,Prints,150,Pittsburgh,,2.3,345,
 1,19,10/28/2024,A Shamrock,3D Print,261 (1),Pittsburgh,,4.7,147,
 1,18,09/25/2024,A Shamrock,Prints,150,Rolex,,2.6,390,
 1,18,09/24/2024,A Shamrock,Prints,150,Rolex,,4.3,645,
